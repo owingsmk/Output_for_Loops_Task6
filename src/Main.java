@@ -7,12 +7,12 @@ public class Main {
 
 
         for(i=n; i>=0; i--)// outer loop to handle number of rows
-        //  n in this case
+                            //  n in this case
         {
 
 
             for(j=0; j<=i; j++)//  inner loop to handle number of columns
-            //  values changing according to outer loop
+                                //  values changing according to outer loop
             {
                 System.out.print("* "); // printing stars
             }
